@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Marcelo Sebastián Valdez</h1>
-<h3 align="center">Estudiante de la carrera Programador Universitario UNT | Web Developer Trainee | Bucando oportunidad backend</h3>
+<h3 align="center">Estudiante de la carrera Programador Universitario UNT | Web Developer Trainee | Bucando oportunidad en el mundo IT</h3>
 
 - 👨‍💻 Mi portafolio [https://sebasvaldez.github.io/sebasvaldez.io/](https://sebasvaldez.github.io/sebasvaldez.io/)
 
